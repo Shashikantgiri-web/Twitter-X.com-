@@ -35,7 +35,7 @@ Contributions to the project are welcome. To contribute, please fork the reposit
 The project is licensed under the MIT License.
 
 ## 📬 Contact
-For questions or concerns, please contact us at [support@example.com](mailto:shashikantshankar707@gmail.com).
+For any questions or concerns, please contact us at [shashikantshankar707@gmail.com](mailto:shashikantshankar707@gmail.com).
 
 ## 💖 Thanks Message
 A huge thank you to all the contributors and users of the Web Application Project. Your support and feedback are greatly appreciated.
